@@ -1,0 +1,8 @@
+A Ruby programming exercise.
+
+A saddle point is a cell whose value is greater than or equal to any in its row and less than or equal to any in its column.
+
+This is an initial a run without using the Matrix object.
+
+TODO
+- recreate using Matrix
